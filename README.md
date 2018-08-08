@@ -5,9 +5,9 @@ Proof of concept for Bitfi website attacks
 
 The Bitfi website is vulnerable to a few attacks;
 
-  - XSS
+  - ~~XSS~~ [FIXED]
   - ~~SQLi~~ [FIXED]
-  - Email injection
+  - ~~Email injection~~ [FIXED]
 
 # Initial Report
 
